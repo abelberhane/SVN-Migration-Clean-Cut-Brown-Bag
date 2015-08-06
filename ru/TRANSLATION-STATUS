@@ -1,0 +1,52 @@
+TRANSLATION-STATUS for the Russian svnbook
+============================================
+
+Status of the Russian translation of the Subversion documentation. 
+This file is generated and should not be edited manually, update the 
+bin/genstat script instead.
+
+$Id$
+
+* book/book.xml
+    Translation complete
+* book/foreword.xml
+    Translation complete
+* book/ch00-preface.xml
+    Untranslated: 2.19% - 17 lines in 1 block
+    Need proofreading: 18.58% - 121 lines in 7 blocks
+* book/ch01-fundamental-concepts.xml
+    Untranslated: 1.11% - 16 lines in 1 block
+    Need proofreading: 84.74% - 996 lines in 18 blocks
+* book/ch02-basic-usage.xml
+    Untranslated: 76.19% - 2524 lines in 3 blocks
+    Need proofreading: 23.79% - 561 lines in 3 blocks
+* book/ch03-advanced-topics.xml
+    Untranslated: 57.62% - 3220 lines in 20 blocks
+    Need proofreading: 42.32% - 1514 lines in 20 blocks
+* book/ch04-branching-and-merging.xml
+    Untranslated: 62.94% - 2549 lines in 6 blocks
+    Need proofreading: 36.18% - 897 lines in 22 blocks
+* book/ch05-repository-admin.xml
+    Untranslated: 77.12% - 2781 lines in 7 blocks
+    Need proofreading: 23.02% - 595 lines in 4 blocks
+* book/ch06-server-configuration.xml
+    Untranslated: 98.48% - 3974 lines in 1 block
+    Need proofreading: 1.52% - 35 lines in 1 block
+* book/ch07-customizing-svn.xml
+    Untranslated: 100.00% - 1547 lines in 1 block
+* book/ch08-embedding-svn.xml
+    Untranslated: 100.00% - 1419 lines in 1 block
+* book/ch09-reference.xml
+    Untranslated: 91.44% - 9893 lines in 6 blocks
+    Need proofreading: 8.38% - 527 lines in 8 blocks
+* book/appa-quickstart.xml
+    Untranslated: 99.98% - 300 lines in 1 block
+* book/appb-svn-for-cvs-users.xml
+    Untranslated: 99.99% - 544 lines in 1 block
+* book/appc-webdav.xml
+    Untranslated: 95.02% - 666 lines in 1 block
+    Need proofreading: 4.16% - 16 lines in 1 block
+* book/copyright.xml
+    Untranslated: 99.99% - 308 lines in 1 block
+
+Summa summarum: 26.04% translated, 21.54% need proofreading
